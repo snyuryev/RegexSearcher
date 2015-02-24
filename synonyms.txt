@@ -1,0 +1,3 @@
+irc|i.r.c|code
+section|s|sec|sect
+fed|federal
